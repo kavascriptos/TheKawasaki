@@ -1,19 +1,19 @@
-### سلام بچه ها 👋
+### Hello Dear Friends! 😘
 
 
 
-به صفحه رسمی کاویشو خوش اومدین
+Welcome To Kavisho's Official Github page!
 
-- 🔭 الان در حال کار روی ربات های سرورم هستم
+- 🔧 Working On My Bot 
 
-- 🌱 و یادگیری دیسکورد جی اس
+- 🤖 Learning Discord.JS
 
-- 👯 بات های اختصاصی برای سرور هاتون هم میسازم
+- 🖥️ I cannot make private bots at this time.
 
-- 🤔 لینک دونیتمون : https://idpay.ir/kavisho
+- 💵 Our Donate Page : https://idpay.ir/kavisho (rial)
 
-- 💬 سورس هامون رو حتما ببینین
+- 📒 Use my sources for your bots!
 
-- 📫 از طریق دیسکورد باهام در تماس باشین
+- 💩 Fuck bokhtapos
 
-- https://discord.gg/cS3RPG7fVd
+
