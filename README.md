@@ -14,6 +14,6 @@ Welcome To Kavisho's Official Github page!
 
 - 📒 Use my sources for your bots!
 
-- 💩 Fuck bokhtapos
+
 
 
