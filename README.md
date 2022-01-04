@@ -1,18 +1,32 @@
-### Hello Dear Friends! 😘
+### TheWutyAbad (Kaveh)
 
 
 
-Welcome To Kavisho's Official Github page!
+Welcome To Kava's Official Github page!
 
-- 🔧 Working On My Bot 
+```json
+ {
+    "name": "Kaveh",
+    "age": 16,
+    "hobbies": {
+        "Music": ["Rap/Hip Hop", "Game Soundtracks", "eRa", "Peter Gundry"],
+        "Code": ["Discord.JS", "express.js", "html/css"],
+        "Gaming": ["LAC", "Off The Road", "Survival Craft 2", "Hitman Sniper"],
+        "other": ["lavat with ski", "lavat with BDFD"]
+    },
+    "working_at": {
+        "Ordak": "Best Iranian Fun Bot",
+        "Lidoma": "Game Tournaments, PLAY, EARN, ENJOY!"
+    },
+    "Projects": {
+        "Polaroid": "Persian Image&Video Generation Discord Bot",
+        "Ordak_Site": "Ordak Site API"
+    },
+    "friends": ["Ordak Support", "1A2L3I4", ".ammir", "Shahmah", "Emam Ordak Clan Members", "and other guys..."]
+}
+```
+- طنازی بسه بیا لاواط
 
-- 🤖 Learning Discord.JS
-
-- 🖥️ I cannot make private bots at this time.
-
-- 💵 Our Donate Page : https://idpay.ir/kavisho (rial)
-
-- 📒 Use my sources for your bots!
 
 
 
