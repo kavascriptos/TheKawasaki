@@ -25,7 +25,6 @@ Welcome To Kava's Official Github page!
     "friends": ["Ordak Support", "1A2L3I4", ".ammir", "Shahmah", "Emam Ordak Clan Members", "and other guys..."]
 }
 ```
-- طنازی بسه بیا لاواط
 
 
 
