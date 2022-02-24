@@ -16,7 +16,7 @@ Welcome To Kava's Official Github page!
     },
     "working_at": {
         "Ordak": "Best Iranian Fun Bot",
-        "Lidoma": "Game Tournaments, PLAY, EARN, ENJOY!"
+        "PolarBearzOfficial": "Community Management & Bot Development"
     },
     "Projects": {
         "Polaroid": "Persian Image&Video Generation Discord Bot",
